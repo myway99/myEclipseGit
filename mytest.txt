@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 for test
 
 test again test 2
@@ -25,3 +26,8 @@ for test 8
 for test 9
 
 for test 10
+=======
+for test
+
+test againtest 2
+>>>>>>> branch 'master' of https://github.com/myway99/myEclipseGit.git
